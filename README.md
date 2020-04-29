@@ -1,2 +1,2 @@
 # catBan
-Practice Haskell with 猫番
+Practice Scala with 猫番
